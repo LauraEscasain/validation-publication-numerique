@@ -1,0 +1,89 @@
+body
+{
+    font-family: Arial, 'Times New Roman', sans-serif;
+    font-size: 15px;
+    text-align: justify;
+    background-color: #cacaca;
+    
+}
+header
+{
+    background-color: #000000;
+    opacity: 70%;
+    height: 43px;
+    width: 100%;
+    font-size: 35px;
+    color: #cacaca;
+    text-align: center;
+}
+
+section, nav 
+{
+    background-color: #dadada;
+    height: 30%;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    margin-block-end: 15px;
+    border-radius: 15px;
+}
+
+h1
+{
+    font-size: xx-large;
+    text-align: center;
+}
+h2
+{
+    font-size: large;
+    text-align: center;
+}
+
+h3
+{
+    font-size: large;
+    text-align: center;
+}
+
+figure
+{
+    text-align: center;
+    font-size: 13px;
+}
+
+em
+{
+    font-style: italic;
+}
+
+u
+{
+    font-style: underline;
+}
+
+b
+{
+    font-style: bold;
+}
+
+IMG.displayed, img.brando
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+img.saturne
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+video
+{
+    display: block;
+    max-width: 60%;
+    height: auto;
+    margin: auto
+}
